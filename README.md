@@ -1,12 +1,12 @@
 KeychainCracker
 ===============
 
-Disclaimer
+DISCLAIMER
 ----------
 
-I wrote this software for a relative so they were able to recover data from a deceased relative. Please enjoy it responsibly, and please do not hack/harm people.
+**USING THIS TOOL FOR HARM IS AGAINST THE LAW**
 
-**USING THIS TOOL FOR HARM IS AGAINST THE LAW**  
+I wrote this script to help a family friend gain acess to a deceased relative's accounts. Please use this tool to have fun on your own machine. Hacking to cause harm is against the law and **will** land you in jail. I am not responceable for your use of this software.
 
 License
 -------
